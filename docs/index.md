@@ -1,6 +1,6 @@
 ## Practice
 
-[Link1](link1lmd)
+[Link1](link1.md)
 
 ## Welcome to GitHub Pages
 
